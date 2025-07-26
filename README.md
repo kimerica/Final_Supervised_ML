@@ -52,7 +52,7 @@ This project uses supervised machine learning models to classify BBC news articl
 
 1. Clone this repository
 2. Ensure required libraries are installed 
-3. Run the notebook: `Supervised_Final.ipynb`
+3. Run the notebook: `bbc-news-classifier.ipynb`
 4. Follow the cells step-by-step for preprocessing, training, and evaluation
 
 ---
